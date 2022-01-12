@@ -20,5 +20,13 @@
   },
   "cypress-cucumber-preprocessor": {
     "nonGlobalStepDefinitions": true
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srmah/Seccion_01.git"
+  },
+  "bugs": {
+    "url": "https://github.com/srmah/Seccion_01/issues"
+  },
+  "homepage": "https://github.com/srmah/Seccion_01#readme"
 }

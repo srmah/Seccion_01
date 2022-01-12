@@ -1,6 +1,6 @@
 1. npm init
 2. npm install cypress --save-dev -> Instalación de Cypress
-3. node_modules\.bin\cypress open -> anir Cypress
+3. node_modules\.bin\cypress open -> abrir Cypress
 4. abrir cypress node_modules\.bin\cypress open
 5. npx cypres open
 6. Evitar que un enlace se abra en otra ventana, utilizando la función invoke: cy.get('.eicon-close').invoke("removeAttr","target").click()
