@@ -9,7 +9,7 @@ describe("Bienvenido al curso de Cypress Sección 1",()=>{
         cy.visit("https://demoqa.com/text-box")
 
         cy.get("#userName").type("Isma")
-        cy.wait(4000)
+        cy.wait(1000)
     })
 
 
